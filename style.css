@@ -1,0 +1,22 @@
+.urun{
+font-size: 20px;
+background-color: violet;
+color: white;
+border-radius: 20px;
+
+
+
+}
+.buton{
+border-radius: 20px 0 20px 0;
+font-size: 20px;
+background-color: slategray;
+color: white;
+font-family: monospace;
+}
+body{
+
+background-color: pink;
+
+
+}
